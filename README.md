@@ -1,3 +1,3 @@
-# LOGIN-PAGE
+# CRUD-Using-PHP-MYSQL
 
 The registration and login page developed using **PHP and MySQL** incorporates essential **CRUD (Create, Read, Update, Delete)** functionalities to manage user data seamlessly. Users can register by providing their details, which are securely stored in the MySQL database upon hitting the "Create" button. After **registration**, they can log in using their credentials, enabling the "Read" operation to validate their information against the database. Users also have the option to update their profile information through the **"Update" feature**, ensuring their data remains accurate and up-to-date. Furthermore, the **"Delete"** function allows users to permanently remove their accounts if they choose to do so, enhancing their control over their user experience. This dynamic and user-centric web application ensures data integrity and user satisfaction through **these fundamental CRUD operations.**
